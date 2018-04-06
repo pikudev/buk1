@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Majesti-Banner-Book";
+    src: url(OPS/css/Majesti-Banner-Book.otf) format("opentype")
+    }
+@font-face {
+    font-family: "ColabThin";
+    src: url(OPS/css/ColabThin.otf) format("opentype")
+    }
+@font-face {
+    font-family: "CaeciliaLTStd-Light";
+    src: url(OPS/css/CaeciliaLTStd-Light.otf) format("opentype")
+    }
+@font-face {
+    font-family: "CaeciliaLTStd-Bold";
+    src: url(OPS/css/CaeciliaLTStd-Bold.otf) format("truetype")
+    }
+@font-face {
+    font-family: "Aachen-Medium-Plain";
+    src: url(OPS/css/Aachen-Medium-Plain.ttf) format("truetype")
+    }
+@font-face {
+    font-family: "Peas-Carrots";
+    src: url(OPS/css/Peas-Carrots.ttf) format("truetype")
+    }
